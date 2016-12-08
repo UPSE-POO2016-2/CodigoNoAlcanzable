@@ -9,6 +9,7 @@ public class PruebaCodigoNoAlcanzable {
 	{
 		int operando1 = a;
 		int operando2 = b;
+		return operando1;
 		int suma = operando1 + operando2;
 		return suma;
 	}
